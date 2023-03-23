@@ -10,6 +10,7 @@ namespace Bai1
     {
         static void Main(string[] args)
         {
+            //Le Phu Qui
             Console.Write("Moi nhap gia tri a: ");
             int a = Int16.Parse(Console.ReadLine());
 
